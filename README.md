@@ -1,6 +1,6 @@
 ## TBEN
 
-Repository for presentation/code for the (The Black Economists Network)[https://www.tben.co.uk/] event
+Repository for presentation/code for the [The Black Economists Network](https://www.tben.co.uk/) event
 [Introduction to R](https://www.tben.co.uk/events/boe-introtor) event 
 run by the [Bank of England](https://www.bankofengland.co.uk)'s [Centre for Central Banking Studies](https://www.bankofengland.co.uk/ccbs) on 24 April 2023.
 
