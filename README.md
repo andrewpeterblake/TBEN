@@ -1,4 +1,4 @@
-## TBEN
+# TBEN
 
 Repository for presentation/code for the [The Black Economists Network](https://www.tben.co.uk/) event
 [Introduction to R](https://www.tben.co.uk/events/boe-introtor) event 
@@ -14,9 +14,5 @@ The two examples are:
 present (CollideA.r) and draws DAGs of the problem.
 
 An earlier [recording from 17 May 2022](https://vimeo.com/714018017/1879a82119) for a different event has more 
-detail on both of these examples, which you may find useful. 
-The [IV/DAG example begins at 0h:9m:25s](https://vimeo.com/714018017/1879a82119?ts=565000) and the 
-[FRED data example begins at 1h:14m:44s](https://vimeo.com/714018017/1879a82119?ts=4480000). Depending on how you access GitHub 
+detail on both of these examples, which you may find useful. The [FRED data example begins at 1h:14m:44s](https://vimeo.com/714018017/1879a82119?ts=4480000) and the [IV/DAG example begins at 0h:9m:25s](https://vimeo.com/714018017/1879a82119?ts=565000) . Depending on how you access GitHub 
 this may play at exactly the right point, or you may have to find the right timed entry point. On an iPhone it doesn't!
-
-
