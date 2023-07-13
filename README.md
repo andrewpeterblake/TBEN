@@ -1,6 +1,6 @@
 ## TBEN
 
-Repository for code for TBEN R event run by the [https://www.bankofengland.co.uk](Bank of England)'s [https://www.bankofengland.co.uk/ccbs](Centre for Central Banking Studies).
+Repository for code for TBEN R event run by the [Bank of England](https://www.bankofengland.co.uk)'s [Centre for Central Banking Studies](https://www.bankofengland.co.uk/ccbs).
 
 The repository includes the presentation, "R (and RStudio) for Econometricians.pdf" and some code examples.
 
